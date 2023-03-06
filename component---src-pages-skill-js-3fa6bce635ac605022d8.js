@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknpdk=self.webpackChunknpdk||[]).push([[511],{4435:function(e,k,n){n.r(k);var a=n(67294),l=n(91083);k.default=()=>a.createElement(l.Z,{page:"skill"})}}]);
+//# sourceMappingURL=component---src-pages-skill-js-3fa6bce635ac605022d8.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknpdk=self.webpackChunknpdk||[]).push([[7],{5502:function(e,n,a){a.r(n);var k=a(67294),p=a(60698);n.default=()=>k.createElement(p.Z,{page:"blog"})}}]);
+//# sourceMappingURL=component---src-pages-blog-js-e5afbe2560430aa31f7d.js.map
