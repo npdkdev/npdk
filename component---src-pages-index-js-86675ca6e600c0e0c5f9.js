@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknpdk=self.webpackChunknpdk||[]).push([[678],{56558:function(e,n,t){t.r(n),t.d(n,{Head:function(){return r}});var a=t(67294),p=t(91083),c=t(54468);const r=()=>a.createElement(c.H,{title:"Inopem Adika"});n.default=e=>a.createElement(p.Z,{page:"main",props:e})}}]);
+//# sourceMappingURL=component---src-pages-index-js-86675ca6e600c0e0c5f9.js.map
